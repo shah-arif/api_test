@@ -1,5 +1,4 @@
 import 'package:api_test/helper/post_helper.dart';
-import 'package:api_test/model/img.dart';
 import 'package:flutter/material.dart';
 
 import '../model/post.dart';

@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:api_test/model/img.dart';
 import 'package:api_test/model/post.dart';
 import 'package:http/http.dart' as http;
 
